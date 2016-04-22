@@ -12,8 +12,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * 
  * @Description: TODO(这里用一句话描述这个类的作用)
  * 
- * @author houqin.fhq houqin.fhq@alibaba-inc.com
- * 
  * @date 2016年3月27日 下午11:40:10
  *
  * 
