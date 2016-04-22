@@ -1,0 +1,19 @@
+server:
+    port: 7002
+    context-path: #
+
+
+logging:
+    level:
+        tk.mybatis: DEBUG
+
+spring:
+    mvc:
+        view:
+            prefix: /templates/
+            suffix: .ftl
+    freemarker:
+        cache: false
+        request-context-attribute: request
+
+
