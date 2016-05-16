@@ -12,7 +12,6 @@ import org.powermock.modules.junit4.PowerMockRunner;
 
 import com.test.mytest.dao.powermock.EmployeeDao;
 import com.test.mytest.model.powermock.Employee;
-import com.test.mytest.service.powermock.EmployeeService;
 
 
 @RunWith(PowerMockRunner.class)
