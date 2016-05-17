@@ -12,13 +12,12 @@ import org.springframework.test.web.servlet.result.MockMvcResultHandlers;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
-import com.test.mytest.controller.UserController;
 import com.test.mytest.service.UserQueryServiceImpl;
 
 /**
  * Test for {@link UserController}.
  *
- * @author Bert Lee
+ * @author qifeng
  * @version 2014-8-19
  */
 
